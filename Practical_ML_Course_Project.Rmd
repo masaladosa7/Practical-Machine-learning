@@ -1,6 +1,6 @@
 ---
 title: "Predict activity quality from activity monitors"
-author: "Shivani Nayak"
+author: "Arya Devaskar"
 date: "8 October 2022"
 output:
   html_document:
